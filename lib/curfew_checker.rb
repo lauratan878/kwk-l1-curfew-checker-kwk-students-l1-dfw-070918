@@ -1,5 +1,5 @@
 def simple_curfew_checker(time)
-  # code goes here
+ if time == 11 pm
 end
 
 def curfew_checker(time)
